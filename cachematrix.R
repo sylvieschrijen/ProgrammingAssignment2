@@ -1,5 +1,4 @@
 ## These two functions create an environment in which to cache the inverse of a matrix for later use.
-## 
 
 ## The first function creates and defines an object in which the inverse matrix can be cached.
 ## First the variables x and m are initialized for makeCacheMatrix.
